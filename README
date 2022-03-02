@@ -1,0 +1,5 @@
+
+Testing approach is black box. So, the tool is feed with some inputs and the outputs shall
+be compared against the expected results.
+
+Alberto Fernandez
